@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetJournal</string>
+    <string name="profinfo">Account Info</string>
+    <string name="login_email_hint">Email</string>
+</resources>
